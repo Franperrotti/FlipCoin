@@ -1,5 +1,5 @@
 .start {
-	background-image:url("/Users/franciscoperrotti/Desktop/Flip /img/backround.png");
+	background-image:url("../img/backround.png");
 	background-repeat: no-repeat;
   	background-size: fill;
 	display: flex;
@@ -57,7 +57,7 @@
 }
 
 .game {
-	background-image:url("/Users/franciscoperrotti/Desktop/Flip /img/backround.png");
+	background-image:url("../img/backround.png");
 	background-repeat: no-repeat;
   	background-size: fill;
 	display: none;
