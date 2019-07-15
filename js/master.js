@@ -18,14 +18,6 @@ Play.addEventListener("click" , function(){
 	game.style.display = "flex";
 });
 
-function effect(){
-	h1.style.opacity = "1";
-	h1.style.transform = "translateY(0px)";
-	Play.style.opacity= "1";
-};
-
-window.onload = effect();
-
 
 
 

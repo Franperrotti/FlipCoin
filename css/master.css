@@ -85,3 +85,10 @@ text-align: center;
 .flipdos{
 	display : none}
 
+	#game {
+			
+		display: flex;
+		flex-direction: column;
+		flex-wrap:  wrap;
+	  };
+
